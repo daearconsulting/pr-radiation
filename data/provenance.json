@@ -1,0 +1,17 @@
+{
+  "source_url": "https://pubs.usgs.gov/wri/wri994063/wri994063.pdf",
+  "doi": "10.3133/wri994063",
+  "retrieved": "2026-10-27",
+  "pdf_sha256": "9d1f03dd1931d19a60a0601658758ef22e33168dd9d29c26fc9dd88f9506f3c1",
+  "csv_sha256": "6bfe00a184bde0bac7c7bd887e83d4d4a1c7a06fb42636bde10c4ddc5a4aae6e",
+  "result_rows": 540,
+  "well_sites": 44,
+  "spring_sites": 14,
+  "spring_sample_rows": 91,
+  "extraction": "PDF text extraction with column-count assertions; result and qualifier strings retained.",
+  "known_issues": [
+    "Site 27 uranium page date differs from other pages; no correction applied.",
+    "Site 42 Table 3 date differs from Table 14; analytical pages retained.",
+    "Gross beta uncertainty is on the following source page for springs."
+  ]
+}

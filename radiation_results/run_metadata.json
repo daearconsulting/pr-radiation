@@ -1,0 +1,17 @@
+{
+  "source_doi": "10.3133/wri994063",
+  "source_csv_sha256": "6bfe00a184bde0bac7c7bd887e83d4d4a1c7a06fb42636bde10c4ddc5a4aae6e",
+  "data_type": "published historical laboratory results; no simulated values",
+  "analyte_slots": 540,
+  "slots_with_results_or_bounds": 240,
+  "well_sites": 44,
+  "spring_sites": 14,
+  "well_uranium_results_above_30_ug_L": 3,
+  "versions": {
+    "python": "3.11.17",
+    "numpy": "2.4.6",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2"
+  },
+  "date_conflicts": "Sites 27 and 42 retained and excluded from date-based well summary"
+}

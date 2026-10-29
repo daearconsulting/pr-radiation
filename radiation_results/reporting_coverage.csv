@@ -1,0 +1,9 @@
+site_type,analyte,reported_numeric,less_than,not_reported
+spring,gross_alpha,23,0,68
+spring,gross_beta,23,0,68
+spring,radium_226,6,3,82
+spring,uranium,9,0,82
+well,gross_alpha,43,1,0
+well,gross_beta,44,0,0
+well,radium_226,1,43,0
+well,uranium,43,1,0

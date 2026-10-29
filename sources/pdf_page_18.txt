@@ -1,0 +1,62 @@
+The second method is the local number and is collected using a separate, precleaned 8-L churn split-
+based on the Federal system of land subdivision (town- ter at each site. Prior to sampling, each churn splitter
+ship, range, and section) (fig. 4). The first number of a was cleaned and double bagged as needed to prevent
+site designation indicates the township and is followed contamination. Churn splitters were opened only for
+by "N" or "S" (for north or south); the second number rinsing and sample collection, and were then covered to
+indicates the range and is followed by "E" or "W" (for avoid contamination. Quality-assurance procedures
+east or west); the third number represents the section used for sample collection and processing are
+and it may be followed with up to four uppercase described by Horowitz and others (1994). Powder-free
+letters. An increasing number of letters following the vinyl gloves were worn throughout the sample collec-
+section number indicates the degree of accuracy with tion and processing procedure to reduce the potential
+which the site has been located. The first letter after for sample contamination.
+the section number represents the 160-acre tract, the Discharge was measured from undeveloped
+second the 40-acre tract, the third the 10-acre tract and springs with a portable flume. Grab samples were
+the fourth the 2.5-acre tract in which the site is located. collected because limited width and depth made collec-
+The letters A, B, C, and D are assigned in a counter-
+tion of integrated cross-sectional samples impractical.
+clockwise direction, beginning in the northeast corner
+Aliquots of spring water were carefully collected in
+of each tract. A number following the last uppercase
+precleaned 8-L churn splitters and covered.
+letter is sometimes used to distinguish between
+A flow-through chamber was used to obtain field
+multiple sites in the same tract. The well number
+measurements for wells so that contact with the atmo-
+38N44W25DDCD, shown in figure 4, indicates the
+sphere was limited. Samples were collected after a
+well is located in the SE1/4 of the SW1/4 of the SE1/4
+minimum of three casing volumes were evacuated
+of the SE1/4 of section 25 in township 38 north and
+from the well and after field measurements stabilized
+range 44 west.
+(Wood, 1976).
+To reduce the potential for external contamina-
+tion, most of the public-supply well samples were
+Sampling Methods
+collected from sampling ports located upstream of any
+Water-quality samples were collected from chemical treatment feeders. However, workable sam-
+springs and public-supply wells according to methods pling ports were not available upstream of chemical
+recommended by the USGS. Samples collected prior feeders for sites 6, 11, and 12; thus, samples for these
+to 1994 generally followed methods presented in Wood three sites were collected downstream of treatment.
+(1976). Samples collected and processed during 1994 Tygon tubing was used to connect the flow-through
+and thereafter generally followed methods described chamber to the sampling ports. Sample bottles were
+by Horowitz and others (1994). Field measurements of filled from a valve located upstream from the flow-
+specific conductance, pH, temperature, dissolved oxy- through chamber. The tygon tubing, flow-through
+gen, and acid neutralizing capacity were recorded at all chamber, and associated plumbing were field rinsed
+sampling sites. The term acid neutralizing capacity several times with deionized water between sampling
+(ANC) is applied to the acid neutralizing capacity of sites.
+solutes plus particulates in a water sample, reported in Samples from springs and wells were analyzed
+equivalents, and normally titrated on an unfiltered sam- for common ions, nutrients, trace elements, and radio-
+ple. Samples were processed and preserved according nuclides by the USGS National Water Quality Labora-
+to Horowitz and others (1994), then kept chilled until tory (NWQL) using analytical methods described by
+received at the laboratory. Fishman and Friedman (1989) and Fishman (1993).
+Fourteen springs were sampled during 1992-97, Pesticide samples were collected from nine springs and
+of which eight were developed for domestic supply or analyzed at the local USGS office laboratory by the
+stock watering, and six were undeveloped (table 2). enzyme-linked immunoassay method developed by
+Developed springs generally consist of a pipe pushed Ohmicron Environmental Diagnostics, Newtown,
+horizontally into a hillside until a flow of spring water Pennsylvania. Bacteria samples were processed in the
+is intercepted. Discharge is then routed to a house or to field and analyzed at the local USGS office laboratory,
+a tank for livestock. Spring discharge can be accurately generally following the procedures described by
+determined by measuring the rate of water flowing Britton and Greeson (1987) and by Myers and
+from the pipe. Samples from developed springs were Sylvester (1997).
+Water-Quality Sampling Locations and Methods 13
